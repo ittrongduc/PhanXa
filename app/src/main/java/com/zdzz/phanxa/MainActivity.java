@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View view) {
 
         if (view.getId() == R.id.textView){
-            textView.setText("DucNguyen");
+            textView.setText("NguyenTrongDuc");
         }
 
     }
